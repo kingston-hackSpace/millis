@@ -1,10 +1,10 @@
 # millis()
 
-Generally, we use the **delay()** function to stablish time intervals in our code, which works for basic interactions, such us when making an LED Blink. However, the delay() function operates by halting our whole code, creating conflicts in more complex operations. 
+Generally, we use the **delay()** function to establish time intervals in our code, which works for basic interactions, such as when making an LED Blink. However, the delay() function operates by halting our whole code, creating conflicts in more complex operations. 
 
-In other words, delay() blocks the code until the time set has passed, it doesn’t allow other operations to perform. 
+In other words, delay() blocks the code until the time set has passed, it doesn’t allow other operations to run. Using millis(), the code keeps running while we check whether enough time has passed.
 
-**Instead of delay(), we use MILLIS()**
+**Instead of delay(), we use millis()**
 
 The millis() function will allow us to: 
 
@@ -24,7 +24,7 @@ Reminder: 1 second = 1000 milliseconds
 ---
 ### Learning to use millis()
 
-Follow the steps below to increasy learn how to use millis() in your project
+Follow the steps below gradually learn how to use millis() in your project
 
 ---
 STEP 1: 
@@ -39,7 +39,9 @@ Using millis() for timing and delay
 [Tutorial 2 (watch video)](https://www.programmingelectronics.com/arduino-sketch-with-millis-instead-of-delay/)
 
 ---
-STEP 3:
+STEP 3: Use millis to make 2 LEDs blink at different intervals
+
+[Tutorial 3](https://leecuriosity.com/blink-without-delay-smarter-led-control-with-arduino/)
 
 ---
 ADVANCED:
