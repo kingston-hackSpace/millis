@@ -39,6 +39,9 @@ Using millis() for timing and delay
 [Tutorial 2 (watch video)](https://www.programmingelectronics.com/arduino-sketch-with-millis-instead-of-delay/)
 
 ---
+STEP 3:
+
+---
 ADVANCED:
 
 [Multi-tasking the Arduino - Part 1 - By ADAFRUIT](https://learn.adafruit.com/multi-tasking-the-arduino-part-1/overview)
